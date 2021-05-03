@@ -1,0 +1,6 @@
+[submodule "base-ui"]
+	path = base-ui
+	url = https://github.com/teambit/base-ui.git
+[submodule "evangelist"]
+	path = evangelist
+	url = https://github.com/teambit/evangelist.git
